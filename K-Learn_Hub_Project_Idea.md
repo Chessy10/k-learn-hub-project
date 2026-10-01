@@ -604,26 +604,6 @@ K-Learn Hub is a class scheduling and student-registration platform for independ
 
 Before accepting any new feature, ask:
 
-## 18. MVP Acceptance Criteria
-
-### Create and publish a class
-
-- A teacher can enter the required class information.
-- A teacher can create and publish a class without an error.
-- The published class appears in the student class list.
-
-### Register for a class
-
-- A student can view published classes.
-- A student can enter a name and email to reserve a seat.
-- A duplicate email registration is rejected.
-- The number of remaining seats is updated after registration.
-
-### View class roster
-
-- A teacher can open a published class.
-- The teacher can see the registered student's name and email.
-
 > Does this feature directly help the teacher publish a class, the student register, or the teacher manage that registration?
 
 If the answer is no, place it in a later roadmap stage rather than the MVP.
